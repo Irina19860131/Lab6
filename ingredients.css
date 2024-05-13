@@ -1,0 +1,142 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bun-top {
+  height: 80px;
+  width: 60%;
+  background: #C5BD87;
+  border-radius: 50px 50px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+}
+
+.cheese {
+  height: 10px;
+  width: 60%;
+  background: #f2c120;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.tomato {
+  height: 25px;
+  width: 60%;
+  background-color: #F83457;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.meatball {
+  height: 50px;
+  width: 55px;
+  background: #A54443;
+  border-radius: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.patty {
+  height: 25px;
+  width: 60%;
+  background: #C58C87;
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.pickle {
+  height: 20px;
+  width: 60%;
+  background: #87C5BD;
+  border-radius: 0 0 100px 100px;
+  border-bottom: solid 10px #2d9961;
+}
+
+.onion {
+  width: 60%;
+  background-color: #C587C0;
+  border-top: dotted 20px rgba(255,255,255,.2);
+}
+
+.bun-bottom {
+  height: 70px;
+  width: 60%;
+  background:  #C5BD87;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.plate {
+  height: 15px;
+  width: 70%;
+  background: #A172C2;
+  border-radius: 20px 20px 200px 200px;
+}
+
+
+
+
+.bunup {
+  height: 40px;
+  width: 50%;
+  background: #572814;
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+}
+
+.saucetartar {
+  height: 10px;
+  width: 45%;
+  background: #E7F4CB;
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.bluecheese {
+  height: 10px;
+  width: 50%;
+  background: #256F87;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+  
+}
+
+.browntomato {
+  height: 20px;
+  width: 50%;
+  background-color: #574A14;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.salmon {
+  height: 35px;
+  width: 35px;
+  background: #EF9B7C;
+  border-radius: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.cucumber {
+  height: 15px;
+  width: 50%;
+  background: #48A05C;
+  border-radius: 0 0 100px 100px;
+  border-bottom: solid 10px #2d9961;
+}
+
+.redonion {
+  width: 50%;
+  background-color: #B13599;
+  border-top: dotted 20px rgba(255,255,255,.2);
+}
+
+.bundown {
+  height: 25px;
+  width: 50%;
+  background:  #572814;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.fineplate {
+  height: 25px;
+  width: 100%;
+  background: #253E87;
+  border-radius: 40px 40px 100px 100px;
+}
